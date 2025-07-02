@@ -1,4 +1,4 @@
-## Hi there I'm Vivian 👋🏼
+## Hey there! I'm Vivian 👋🏼
 
 ## 👽 About Me 🛸
 
