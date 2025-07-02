@@ -54,5 +54,8 @@ First-generation CS graduate student passionate about building unbiased AI solut
 
 **Always open to collaborating on meaningful projects that make a difference!** 💡
 
+---
+*“You can't use up creativity. The more you use, the more you have.” ― Maya Angelou*
+
 
 
