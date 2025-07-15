@@ -35,7 +35,7 @@ Email: guerreromvivian@gmail.com
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
-## 🔥 Featured Projects
+## Featured Projects
 
 ### 🧠 Brain Tumor Detection AI
 **Healthcare ML Research** | *TensorFlow, Computer Vision, Medical Imaging*
