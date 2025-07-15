@@ -45,7 +45,7 @@ Email: guerreromvivian@gmail.com
 
 ### 🌐 Get2Gether Social Platform
 **Full-Stack Development** | *React, Node.js, PostgreSQL*
-- Deployed SaaS platform serving **500+ daily active users**
+- Deployed SaaS platform across Vercel and Prisma infrastrcuture
 - Implemented JWT authentication and third-party API integrations
 - Achieved 99.9% uptime with responsive design across devices
 
