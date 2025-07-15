@@ -14,7 +14,7 @@ Email: guerreromvivian@gmail.com
 - 🌱 **I’m currently Learning**: Advanced ML techniques, cloud architecture, research methodologies
 - 👯 **I’m looking to collaborate** on building technology and interdisciplinary work that bridges computer science with real-world impact
 - 💻 **Current Stack**: Python, React, TensorFlow, Node.js, PostgreSQL
-- ⚡ **Fun Fact**: I've backpacked through Yosemite's wilderness and I enjoy swimming and dancing 💃
+- ⚡ **Fun Fact**: I've backpacked through Yosemite's wilderness and I enjoy swimming & dancing
 
 ## 🛠️ Tech Stack
 
