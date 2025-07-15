@@ -4,6 +4,9 @@
 
 First-generation CS graduate student passionate about building unbiased AI solutions for healthcare and education. Currently pursuing my Master's at Northeastern University while working as a Graduate Student Services Coordinator.
 
+📍Currently Based in San Francisco, CA
+Email: guerreromvivian@gmail.com
+
 
 - 🔭 **Research Focus**: Healthcare AI/ML, Educational Technology, Accessibility
 - 🎯 **Mission**: Developing AI systems that improve healthcare efficiency, patient outcomes, and clinical understanding
