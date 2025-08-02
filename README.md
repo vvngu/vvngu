@@ -42,14 +42,14 @@ Email: guerreromvivian@gmail.com
 ### ✈️ Trip-sonality
 **AI/ML Engineering & Team Leadership** | *Python, TypeScript, React*
 - A travel planning app that uses 3 specialized AI agents to craft your perfect itinerary based on your MBTI personality type
-- Optimized Agent Architecture from 7 -> 3 agents resulting in 60% cost savings
-- Improved execution time by 50% by cutting half the API calls through Agent Consolidation and Optimization
+- Optimized Agent Architecture from 7 -> 3 agents resulting in **60% cost savings**
+- **Improved execution time by 50%** by cutting half the API calls through Agent Consolidation and Optimization
   
 ### 🧠 Brain Tumor Detection AI
 **Healthcare ML Research** | *TensorFlow, Computer Vision, Medical Imaging*
 - Built deep learning model achieving **97% classification accuracy**
 - Processed 3,000+ MRI scans with advanced data augmentation
-- Reduced diagnostic time by 60% through transfer learning
+- **Reduced diagnostic time by 60%** through transfer learning
 
 ### 🌐 Get2Gether Social Platform
 **Full-Stack Development** | *React, Node.js, PostgreSQL*
