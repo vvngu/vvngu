@@ -11,11 +11,11 @@ I'm seeking roles where I can deepen my expertise in ML engineering or full-stac
 Email: guerreromvivian@gmail.com
 
 
-- 🔭 **Research Focus**: Healthcare AI/ML, Educational Technology, Accessibility
-- 🎯 **Mission**: Developing AI systems that improve healthcare efficiency, patient outcomes, and clinical understanding
+- 🔭 **Research Focus**: Practical applications of AI/ML
+- 🎯 **Mission**: Developing AI systems that improve efficiency
 - 🌱 **I’m currently Learning**: Advanced ML techniques, cloud architecture, research methodologies
 - 👯 **I’m looking to collaborate** on building technology and interdisciplinary work that bridges computer science with real-world impact
-- 💻 **Current Stack**: Python, React, TensorFlow, Node.js, PostgreSQL
+- 💻 **Current Stack**: Python, TensorFlow, Node.js, PostgreSQL, React
 - ⚡ **Fun Fact**: I've backpacked through Yosemite's wilderness and I enjoy swimming & dancing
 
 ## 🛠️ Tech Stack
@@ -39,6 +39,12 @@ Email: guerreromvivian@gmail.com
 
 ## Featured Projects
 
+### ✈️ Trip-sonality
+**AI/ML Engineering & Team Leadership** | *Python, TypeScript, React*
+- A travel planning app that uses 3 specialized AI agents to craft your perfect itinerary based on your MBTI personality type
+- Optimized Agent Architecture from 7 -> 3 agents resulting in 60% cost savings
+- Improved execution time by 50% by cutting half the API calls through Agent Consolidation and Optimization
+  
 ### 🧠 Brain Tumor Detection AI
 **Healthcare ML Research** | *TensorFlow, Computer Vision, Medical Imaging*
 - Built deep learning model achieving **97% classification accuracy**
@@ -50,13 +56,6 @@ Email: guerreromvivian@gmail.com
 - Deployed SaaS platform across Vercel and Prisma infrastrcuture
 - Implemented JWT authentication and third-party API integrations
 - Achieved 99.9% uptime with responsive design across devices
-
-### 👥 Kids Social Media App
-**Team Leadership & Development** | *JavaScript, React, Agile*
-- Led cross-functional team of 5 developers through complete lifecycle
-- Increased user satisfaction by **20%** through data-driven features
-- Maintained 95% test coverage with automated testing frameworks
-
 
 **Always open to collaborating on meaningful projects that make a difference!** 💡
 
