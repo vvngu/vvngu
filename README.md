@@ -45,8 +45,15 @@ Email: guerreromvivian@gmail.com
 - Optimized Agent Architecture from 7 -> 3 agents resulting in **60% cost savings**
 - **Improved execution time by 50%** by cutting half the API calls through Agent Consolidation and Optimization
   
+### 🏥 Wearable Clinical Data Pipeline
+**Data Engineering & Healthcare Analytics** | *TimescaleDB, FastAPI, React, Docker*
+- Built end-to-end data pipeline processing **5+ types of Fitbit metrics** for clinical trial analysis
+- Engineered intelligent query optimization reducing response times by 75% using automatic table selection
+- Designed scalable architecture supporting 100+ participants with TimescaleDB hypertables
+- Created real-time dashboard with **multi-resolution data aggregation** (1s to 1d intervals)
+
 ### 🧠 Brain Tumor Detection AI
-**Healthcare ML Research** | *TensorFlow, Computer Vision, Medical Imaging*
+**Healthcare ML Research** | *TensorFlow, Computer Vision, Python*
 - Built deep learning model achieving **97% classification accuracy**
 - Processed 3,000+ MRI scans with advanced data augmentation
 - **Reduced diagnostic time by 60%** through transfer learning
