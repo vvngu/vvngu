@@ -4,7 +4,7 @@
 
 First-generation CS graduate student passionate about building ethical AI solutions that solve real-world problems. Currently pursuing my Master's at Northeastern University while working as a Graduate Student Services Coordinator.
 
-I'm seeking roles where I can deepen my expertise in ML engineering or full-stack development while building systems that have real-world impact. I'm especially drawn to companies pushing the boundaries in AI/ML, where I can drive innovation and continuous learning. I thrive in collaborative teams that value self-starters. I'm energized by complex, open-ended challenges where I can take ownership of solutions while learning from experienced teammates. Ultimately, I want to be somewhere I can make a meaningful contribution while growing both technically and professionally
+I'm seeking roles where I can deepen my expertise in ML engineering or full-stack development while building systems that have real-world impact. I thrive in collaborative teams that value self-starters. I'm energized by complex, open-ended challenges where I can take ownership of solutions while learning from experienced teammates. Ultimately, I want to be somewhere I can make a meaningful contribution while growing both technically and professionally
 
 📍Currently Based in San Francisco, CA
 
