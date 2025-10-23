@@ -47,20 +47,20 @@ I'm drawn to the intersection of **AI infrastructure, agentic systems, and real-
 
 ## Featured Projects
 
-### ✈️ Trip-sonality
-**AI/ML Engineering & Team Leadership** | [GitHub](https://github.com/vvngu/Trip-sonality)
-- A travel planning app that uses 3 specialized AI agents to craft your perfect itinerary based on your MBTI personality type
-- Optimized Agent Architecture from 7 -> 3 agents resulting in **60% cost savings**
-- **Improved execution time by 50%** by cutting half the API calls through Agent Consolidation and Optimization
-- **Tech:** Python, TypeScript, React
-
-- ### 🏡 SmartRealtor (Lovable)
+### 🏡 SmartRealtor
 **1st Place, AWS AI Hack Day** | [GitHub](https://github.com/zprintln/SmartRealtor) | [Demo](https://lovable.dev/projects/43eb29a8-3a20-4178-b491-a0d48cd8babf)
 - AI-powered real estate matching platform using multi-agent system and vector search
 - Built agentic AI workflow with CrewAI to automate property research, analysis, and recommendations
 - Integrated Weaviate for semantic similarity matching between buyer preferences and listings
 - **Shipped in 8 hours** from concept to working demo
 - **Tech:** Python, CrewAI, Weaviate, FriendliAI, React
+
+### ✈️ Trip-sonality
+**AI/ML Engineering & Team Leadership** | [GitHub](https://github.com/vvngu/Trip-sonality)
+- A travel planning app that uses 3 specialized AI agents to craft your perfect itinerary based on your MBTI personality type
+- Optimized Agent Architecture from 7 -> 3 agents resulting in **60% cost savings**
+- **Improved execution time by 50%** by cutting half the API calls through Agent Consolidation and Optimization
+- **Tech:** Python, TypeScript, React, OpenAI, LangGraph, LangChain
 
 ### 📚 DocuCast
 **AI Research Assistant** | [GitHub](https://github.com/zprintln/DocuCast) | [Demo](https://vimeo.com/1120322085?share=copy)
