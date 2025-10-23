@@ -2,72 +2,81 @@
 
 ## 👽 About Me 🛸
 
-First-generation CS graduate student passionate about building ethical AI solutions that solve real-world problems. Currently pursuing my Master's at Northeastern University while working as a Graduate Student Services Coordinator.
+Master's CS student at Northeastern (4.0 GPA) building AI systems that actually get used. 
+I'm drawn to the intersection of **AI infrastructure, agentic systems, and real-world deployment** - the messy, interesting space where research meets production.
 
-I'm seeking roles where I can deepen my expertise in ML engineering or full-stack development while building systems that have real-world impact. I thrive in collaborative teams that value self-starters. I'm energized by complex, open-ended challenges where I can take ownership of solutions while learning from experienced teammates. Ultimately, I want to be somewhere I can make a meaningful contribution while growing both technically and professionally
+**Recent wins:**
+- 🥇 1st place, AWS AI Hack Day - Built "SmartRealtor," an AI real estate platform using CrewAI agents & Weaviate vector database
+- 🥈 2nd place, JPMorgan Data for Good Hackathon - Designed 4-factor scoring system for HBCU employer partnerships (top 100 from 3,400+ applicants)
 
-📍Currently Based in San Francisco, CA
+**What I'm building:** RAG systems, multi-agent AI platforms, LLM-powered tools that solve real problems. I care about making AI accessible and useful, not just impressive.
 
-Email: guerreromvivian@gmail.com
+**What I'm seeking:** ML engineering or AI infrastructure roles where I can work on production systems, learn from experienced teams, and push what's possible with LLMs and agentic AI.
 
+---
 
-- 🔭 **Research Focus**: Practical applications of AI/ML
-- 🎯 **Mission**: Developing AI systems that improve efficiency
-- 🌱 **I’m currently Learning**: Advanced ML techniques, cloud architecture, research methodologies
-- 👯 **I’m looking to collaborate** on building technology and interdisciplinary work that bridges computer science with real-world impact
-- 💻 **Current Stack**: Python, TensorFlow, Node.js, PostgreSQL, React
-- ⚡ **Fun Fact**: I've backpacked through Yosemite's wilderness and I enjoy swimming & dancing
+📍 **Currently Based:** San Francisco Bay Area  
+📧 **Email:** guerreromvivian@gmail.com  
+🎓 **Graduating:** May 2027
 
-## 🛠️ Tech Stack
+---
 
-### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+### 🔧 Tech Stack
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+**AI/ML:** Python, PyTorch, TensorFlow, LangChain, CrewAI, Weaviate, FriendliAI, RAG systems  
+**Backend:** Node.js, FastAPI, PostgreSQL, REST APIs  
+**Frontend:** React, TypeScript  
+**Cloud:** AWS, Docker  
 
-### Databases & Cloud
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+---
+
+### 🚀 Current Focus
+
+- Exploring agentic AI architectures and multi-agent systems
+- Learning MLOps best practices and production AI deployment
+- Building tools that make AI development more accessible
+
+---
+
+### 💬 Let's Connect
+
+👯 **Open to collaborate on:** AI infrastructure projects, ML tooling, research-to-production pipelines  
+🌱 **Currently learning:** Advanced LLM fine-tuning, AI orchestration frameworks, cloud-native ML deployment  
+
+⚡ **Fun fact:** I've backpacked through Yosemite's wilderness, and when I'm not coding, you'll find me swimming or dancing!
 
 ## Featured Projects
 
 ### ✈️ Trip-sonality
-**AI/ML Engineering & Team Leadership** | *Python, TypeScript, React*
+**AI/ML Engineering & Team Leadership** | [GitHub](https://github.com/vvngu/Trip-sonality)
 - A travel planning app that uses 3 specialized AI agents to craft your perfect itinerary based on your MBTI personality type
 - Optimized Agent Architecture from 7 -> 3 agents resulting in **60% cost savings**
 - **Improved execution time by 50%** by cutting half the API calls through Agent Consolidation and Optimization
+- **Tech:** Python, TypeScript, React
+
+- ### 🏡 SmartRealtor (Lovable)
+**1st Place, AWS AI Hack Day** | [GitHub](https://github.com/zprintln/SmartRealtor) | [Demo](https://lovable.dev/projects/43eb29a8-3a20-4178-b491-a0d48cd8babf)
+- AI-powered real estate matching platform using multi-agent system and vector search
+- Built agentic AI workflow with CrewAI to automate property research, analysis, and recommendations
+- Integrated Weaviate for semantic similarity matching between buyer preferences and listings
+- **Shipped in 8 hours** from concept to working demo
+- **Tech:** Python, CrewAI, Weaviate, FriendliAI, React
+
+### 📚 DocuCast
+**AI Research Assistant** | [GitHub](https://github.com/zprintln/DocuCast) | [Demo](https://vimeo.com/1120322085?share=copy)
+- LLM-powered research tool that converts academic papers into podcast-style audio summaries
+- Implemented RAG pipeline for document processing and intelligent summarization
+- Built agentic AI system for autonomous research workflows
+- **Tech:** Python, LangChain, OpenAI API, Text-to-Speech APIs
   
-### 🏥 Wearable Clinical Data Pipeline
-**Data Engineering & Healthcare Analytics** | *TimescaleDB, FastAPI, React, Docker*
+### 🏥 Wearable Clinical Data Pipeline 
+**Data Engineering & Healthcare Analytics** | [GitHub](https://github.com/vvngu/wearable-clinical-data-platform)
 - Built end-to-end data pipeline processing **5+ types of Fitbit metrics** for clinical trial analysis
 - Engineered intelligent query optimization reducing response times by 75% using automatic table selection
 - Designed scalable architecture supporting 100+ participants with TimescaleDB hypertables
 - Created real-time dashboard with **multi-resolution data aggregation** (1s to 1d intervals)
+- **Tech:** TimescaleDB, FastAPI, React, Docker
 
-### 🧠 Brain Tumor Detection AI
-**Healthcare ML Research** | *TensorFlow, Computer Vision, Python*
-- Built deep learning model achieving **97% classification accuracy**
-- Processed 3,000+ MRI scans with advanced data augmentation
-- **Reduced diagnostic time by 60%** through transfer learning
-
-### 🌐 Get2Gether Social Platform
-**Full-Stack Development** | *React, Node.js, PostgreSQL*
-- Deployed SaaS platform across Vercel and Prisma infrastrcuture
-- Implemented JWT authentication and third-party API integrations
-- Achieved 99.9% uptime with responsive design across devices
-
-**Always open to collaborating on meaningful projects that make a difference!** 💡
-
----
-*“You can't use up creativity. The more you use, the more you have.” ― Maya Angelou*
 
 
 
